@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "TLS Certificate Monitor",
+  "version": "1.0",
+  "description": "Detects potential MITM attacks by verifying TLS certificates.",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "notifications",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+    "action": {
+    "default_popup": "popup.html"}
+}
