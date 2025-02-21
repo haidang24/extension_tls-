@@ -11,7 +11,7 @@ app.use(cors());
 // Dữ liệu giả lập CT Logs
 let mockCTLogs = [
   {
-    domain: "example.com",
+    domain: "facebook.com",
     fingerprint: "SHA256-FAKE-EXAMPLE",
     merkle_proof: "VALID_PROOF_HASH",
   },
