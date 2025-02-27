@@ -38,7 +38,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/certificate-transparency-prism.git
+   https://github.com/haidang24/extension_tls-.git
    ```
 2. **Install on Chrome**:
    - Open `chrome://extensions/`.
