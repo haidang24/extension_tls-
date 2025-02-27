@@ -38,7 +38,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/haidang24/extension_tls-.git
+   git clone https://github.com/haidang24/extension_tls-
    ```
 2. **Install on Chrome**:
    - Open `chrome://extensions/`.
@@ -47,7 +47,7 @@
 3. **Verify Installation**:
    - The extension icon will appear in the Chrome toolbar. Click it to open the popup and start verifying certificates.
 
-📌 *Note: Firefox support is under development and will be available in the next release.*
+📌 *Note: Firefox support is planned for release in the next major update.*
 
 ### Usage
 
@@ -82,28 +82,27 @@ Addresses a critical need for secure web browsing, targeting individual users, b
 
 ## 📧 Contact Information
 
-- **Team Lead**: HaiDang 
-- **GitHub**: [Repository](https://github.com/haidang24/extension_tls-)  
-- **Telegram**: [@YourHandle](https://t.me/ngoctran011105)  
+- **Team Lead**: HAIDANG
+- **GitHub**: [Repository](https://github.com/haidang24/extension_tls-)
+- **Telegram**: [NgocTran](https://t.me/ngoctran011105)
 
 ---
 
 ## 🔮 Future Roadmap
 
-- **Q1 2025**: Launch Firefox version and add real-time threat notifications.
-- **Q2 2025**: Expand to mobile browsers (Chrome Mobile, Safari) and integrate with enterprise security platforms.
-- **Q3 2025**: Develop IoT certificate verification for smart homes and industrial applications.
+- **Browser Expansion & Threat Detection**: Launch a Firefox version and integrate real-time threat notifications for enhanced user security.
+- **Mobile & Enterprise Integration**: Expand support to mobile browsers (Chrome Mobile, Safari) and seamlessly integrate with enterprise security platforms.
+- **AI-Driven Automated Analysis**: Incorporate advanced AI algorithms to automatically analyze certificate data and threat patterns, delivering predictive insights and dynamic security responses.
+- **IoT & Industrial Verification**: Develop certificate verification modules tailored for IoT devices in smart homes and industrial applications, ensuring comprehensive security across diverse environments.
 
 ---
 
 ## ⚠️ Development Challenges
 
 - **Chrome APIs**: Encountered difficulties integrating with Chrome APIs compared to Firefox, requiring additional optimization time.
-- **Context**: Refer to [Twitter post](https://twitter.com/YourHandle) for more details.
 
 ---
 
 ## 📚 Additional Resources
 
-- **Prism Tutorial**: Watch the [Mammothon workshop](https://www.youtube.com/) on YouTube.
-- **Project Context**: Check the tweet from [@distractedmd1nd](https://twitter.com/distractedmd1nd).
+- **Prism Tutorial**: https://docs.prism.rs/tutorial.html
